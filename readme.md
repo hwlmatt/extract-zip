@@ -1,3 +1,4 @@
+## just a temporary fork to point to my fork of [yauzl](https://github.com/hwlmatt/yauzl) that is using [Nalhabash's](https://github.com/nalhabash) updated [fd-slicer2](https://github.com/nalhabash/fd-slicer2) that solves the original fd-slicer's breaking `DEP0005 deprecation error` 
 # extract-zip
 
 Unzip written in pure JavaScript. Extracts a zip into a directory. Available as a library or a command line program.
