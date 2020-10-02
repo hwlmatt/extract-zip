@@ -34,7 +34,7 @@
   "dependencies": {
     "debug": "^4.1.1",
     "get-stream": "^5.1.0",
-    "yauzl": "hwlmatt/extract-zip.git#e52ab7147170ef71c42b44bc2c74ea3116b177fb"
+    "yauzl": "hwlmatt/yauzl.git#e52ab7147170ef71c42b44bc2c74ea3116b177fb"
   },
   "optionalDependencies": {
     "@types/yauzl": "^2.9.1"
